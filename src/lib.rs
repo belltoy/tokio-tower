@@ -231,3 +231,4 @@ mod sealed {
 
 pub mod multiplex;
 pub mod pipeline;
+pub mod noacks_pipeline;
